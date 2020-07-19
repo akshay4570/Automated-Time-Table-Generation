@@ -1,4 +1,4 @@
-# Python3 program to create target string, starting from
+# Python3 program to create target string from
 # random string using Genetic Algorithm
 
 import random
