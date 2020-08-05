@@ -1,0 +1,2 @@
+Designing an Automated Time Table following the Software Engineering principles from Requirement Analysis,Designing,Coding to actual Deployment. The crux of the project is implementation of Genetic Algorithm which is a heuristic algorithm based on Natural Selection results in Randomized and Optimized output, generally used for larger search space.
+The algorithm takes input from the Requirements phase and classifies into hard and soft constraints and try to satisfy most of the constraints. 
